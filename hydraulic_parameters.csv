@@ -1,4 +1,4 @@
-Type,Litology,Tporosity,Eporosity,K,S,Sy,Compressibility,Note,Location,Source
+Type,Lithology,Tporosity,Eporosity,K,S,Sy,Compressibility,Note,Location,Reference_ID
 Igneous,Andesite,0.5,NA,NA,NA,NA,NA,NS,Doenstedt_ Germany.,77
 Igneous,Andesite,NA,NA,3.6,0.000923,NA,NA,Fractured,Taipei basin_ Taiwan,78
 Igneous,Andesite,NA,NA,8.38,0.00125,NA,NA,Fractured,Taipei basin_ Taiwan,78
@@ -162,7 +162,7 @@ Igneous,Basalt,NA,NA,0.987,0.00022,NA,NA,Fractured,"The Lamentin aquifer_ Martin
 archipelago",448
 Igneous,Basalt,NA,NA,11.1,0.005,NA,NA,Fractured,"The Lamentin aquifer_ Martinique island_ Lesser Antilles
 archipelago",448
-Igneous,Basalt,NA,NA,310,NA,0.04,NA,Fractured,Wailuku Basalt_ The island of Maui_ Hawaiia,451452
+Igneous,Basalt,NA,NA,310,NA,0.04,NA,Fractured,Wailuku Basalt_ The island of Maui_ Hawaiia,451_452
 Igneous,Basalt,NA,NA,84.6,1.00E-06,0.12,NA,Fractured,"Cheju Island_ south of
 the Korean peninsula",453
 Igneous,Basalt,NA,NA,NA,NA,0.5,NA,Fractured,"Cheju Island_ south of
@@ -544,8 +544,8 @@ Igneous,Granite,NA,NA,4.58,3.70E-05,NA,NA,Fractured,Hard Rock Aquifers_ South In
 Igneous,Granite,NA,1,NA,NA,NA,NA,Fissured granite,south of Hyderabad _ State of Andhra Pradesh_ India,427
 Igneous,Granite,NA,10,NA,NA,NA,NA,Fissured granite,south of Hyderabad _ State of Andhra Pradesh_ India,427
 Igneous,Granite,NA,NA,NA,0.000105,NA,NA,Fractured,Coles Hill uranium deposit_ Virginia_ USA,429
-Igneous,Granite,NA,NA,NA,5.00E-05,0.1,NA,Fractured,The Makutupora Basin_ Dodoma_ Tanzania,430431
-Igneous,Granite,NA,NA,NA,0.005,NA,NA,Fractured,The Makutupora Basin_ Dodoma_ Tanzania,430431
+Igneous,Granite,NA,NA,NA,5.00E-05,0.1,NA,Fractured,The Makutupora Basin_ Dodoma_ Tanzania,430_431
+Igneous,Granite,NA,NA,NA,0.005,NA,NA,Fractured,The Makutupora Basin_ Dodoma_ Tanzania,430_431
 Igneous,Granite,NA,NA,1.86,5.00E-04,0.02,NA,Fractured,"Sardinia and
 Calabria (Italy)",435
 Igneous,Granite,NA,NA,9.8,5.00E-04,NA,NA,Fractured,"Sardinia and
@@ -562,10 +562,10 @@ Igneous,Granite,NA,NA,NA,0.005,0.045,NA,Fractured,"The Experimental Hydrogeologi
 Southern India",437
 Igneous,Granite,NA,1,5.18,NA,0.03,NA,Fractured,"the Experimental
 Hydrogeological Park (EHP)_ Choutuppal village in the Nalgonda district_ Telangana
-state",438439
+state",438_439
 Igneous,Granite,NA,1,6.05,NA,0.07,NA,Fractured,"the Experimental
 Hydrogeological Park (EHP)_ Choutuppal village in the Nalgonda district_ Telangana
-state",438439
+state",438_439
 Igneous,Granite,NA,NA,0.00137,2.30E-05,NA,NA,Fractured,Mirror lake_ New Hemisphere_ U.S.,449
 Igneous,Granite,NA,NA,NA,0.00023,NA,NA,Fractured,Mirror lake_ New Hemisphere_ U.S.,450
 Igneous,Granite,NA,NA,NA,0.00011,NA,NA,Fractured,The Experimental Hydrogeological Park_ Choutuppal village in Andhra Pradesh state,450
