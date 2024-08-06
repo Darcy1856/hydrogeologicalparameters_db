@@ -192,7 +192,7 @@ shinyUI <- tagList(
                fluidRow(
                  h4(strong("AquiParameter:")," Aquifer Parameter Dataset. Compilation and Statistical Analysis using R.", style="justify-content: center; text-align: center;"),
                  h4("Héctor Báez, Antonio Hernández-Espriú", style="justify-content: center; text-align: center;"),
-                 h4("Hydrogeology Group, Faculty of Engineering, UNAM, 2021. ", style="justify-content: center; text-align: center;")
+                 h4("Hydrogeology Group, Faculty of Engineering, UNAM, 2024. ", style="justify-content: center; text-align: center;")
                  
                ),
              
@@ -229,7 +229,7 @@ shinyUI <- tagList(
               column(12,
                h4(strong("AquiParameter:")," Aquifer Parameter Dataset. Compilation and Statistical Analysis using R.", style="justify-content: center; text-align: center;"),
                h4("Héctor Báez, Antonio Hernández-Espriú", style="justify-content: center; text-align: center;"),
-               h4("Hydrogeology Group, Faculty of Engineering, UNAM, 2021. ", style="justify-content: center; text-align: center;"),
+               h4("Hydrogeology Group, Faculty of Engineering, UNAM, 2024. ", style="justify-content: center; text-align: center;"),
                br(),
                h4(strong("Description")),
                p("An accurate and reliable estimation of aquifer hydraulic parameters is essential to assess groundwater pumping conditions, predict solute migration rates, 
@@ -275,15 +275,14 @@ shinyUI <- tagList(
                br(),
                h4(strong("Citation")),
                p("Please cite us as:"),
-               p("Báez, H, Hernández-Espriú, A (2021). AquiParameter: Aquifer Parameter Dataset. Compilation and Statistical Analysis using R."),
+               p("Báez, H, Hernández-Espriú, A (2024). AquiParameter: Aquifer Parameter Dataset. Compilation and Statistical Analysis using R."),
                p("Báez, H (2021). Hydrogeological Parameters Dataset: Compilation and Statistical Analysis using R [In Spanish: Base de datos de parámetros hidrogeológicos: compilación y análisis estadístico usando R], BS, BE Thesis, Faculty of Engineering, Universidad Nacional Autónoma de México (UNAM), Mexico."),
                br(),
                br(),
                h4(strong("Acknowledgements")),
-               p("We are grateful to the Direccion General de Computo y de Tecnologias de Informacion y Comunicacion, DGTIC, UNAM  (",
-                 tags$a(href="https://www.tic.unam.mx/", "https://www.tic.unam.mx/",style="color:blue; text-decoration: underline blue;"),") for granting us a room in their Web Server to host AquiParameter. We truly thank to Mtra. Rebeca Valenzuela Argüelles (Head of the Teaching Technology Department) and to 
-                 Act. Mario Alberto Hernández Mayorga (Head of the Applications Development Department) 
-                 for kindly supporting this project. "),
+               p("We are grateful to ",
+                 tags$a(href="https://www.ingenieria.unam.mx/", "Faculty of Engineering (UNAM)",style="color:blue; text-decoration: underline blue;"),
+                 " for granting us a room in their Web Server  to host AquiParameter. We truly thank to Alejandro Velázquez Mena, Head of the Electrical and Computing Engineering Division, for kindly supporting this project."),
                br(),
                br(),
                h4(strong("References")),
